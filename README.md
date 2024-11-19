@@ -1,4 +1,4 @@
-[Coursera S80K0WA6Q4S7 (1).pdf](https://github.com/user-attachments/files/17803202/Coursera.S80K0WA6Q4S7.1.pdf)
+![googlecert](https://github.com/user-attachments/assets/2c3988e5-dd97-4a9f-80fa-0a1635bdcf85)
 
 This repo holds all of the projects, notes, and write-ups I have done while completing the Google Cybersecurity Professional Certificate.
 You can view my certificate of completion on .
@@ -30,3 +30,4 @@ Each directory holds the files for each of the courses in the certificate and th
 8.	Put It to Work: Prepare for Cybersecurity Jobs (No files needed)
 
 https://coursera.org/share/52b1731514d471cdd3b9f81d51df9bf7
+
